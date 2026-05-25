@@ -64,8 +64,6 @@ Fun_fact   : I debug with coffee and commit with hope ☕
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaU101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480" width="100%"/>
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaU101&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%"/>
-
 </div>
 
 <!-- ───────────────────────────── CONTRIBUTION ACTIVITY ───────────────────────────── -->
