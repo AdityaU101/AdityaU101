@@ -80,7 +80,6 @@ Fun_fact   : I debug with coffee and commit with hope ☕
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
