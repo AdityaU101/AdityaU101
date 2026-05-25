@@ -1,10 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Aditya!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%7C%20ML%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+![header](./header.svg)
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=M.S.+Computer+Science+%40+ASU+%2727;Cloud+%26+ML+Engineer+in+the+making;AWS+%7C+Python+%7C+React+%7C+Java;Open+to+SWE+%26+Cloud+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=50&lines=M.S.+Computer+Science+%40+ASU+%2727+%F0%9F%8E%93;Cloud+%26+ML+Engineer+in+the+making+%E2%98%81%EF%B8%8F;AWS+%7C+Python+%7C+React+%7C+Java+%7C+Docker;Building+things+that+scale+%F0%9F%9A%80;Open+to+SWE+%26+Cloud+roles+%F0%9F%91%80" alt="Typing SVG" />
 </a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-upadhyay2423/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaU101)
+[![Email](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityau24092003@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdityaU101&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/AdityaU101)
 
 </div>
 
@@ -13,15 +20,17 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name       : Aditya Upadhyay
-location   : Tempe, Arizona 🌵
-education  : M.S. Computer Science @ Arizona State University (May 2027)
-             B.S. CS @ CMR Institute of Technology, Bengaluru
-focus      : Cloud Engineering · Machine Learning · Full-Stack Development
-currently  : Course Grader @ ASU | Building cloud-native projects
-goal       : Land a Cloud / SWE role — non-negotiable 💪
-fun_fact   : I debug with coffee and commit with hope ☕
+Name       : Aditya Upadhyay
+Location   : Tempe, Arizona 🌵
+Education  : M.S. Computer Science @ Arizona State University (May 2027)
+             B.S. CS @ CMR Institute of Technology, Bengaluru (May 2025)
+Focus      : Cloud Engineering · Machine Learning · Full-Stack Development
+Currently  : Course Grader CSE 460: Software Analysis and Design @ ASU
+Goal       : Land a Cloud / SWE role (non-negotiable 💪)
+Fun_fact   : I debug with coffee and commit with hope ☕
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
@@ -31,25 +40,27 @@ fun_fact   : I debug with coffee and commit with hope ☕
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c,js,bash&theme=dark&perline=6)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark&perline=6)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark&perline=6)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,linux&theme=dark)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 **ML & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
@@ -57,17 +68,19 @@ fun_fact   : I debug with coffee and commit with hope ☕
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaU101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaU101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaU101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaU101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaU101&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaU101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" width="65%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
@@ -75,30 +88,24 @@ fun_fact   : I debug with coffee and commit with hope ☕
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaU101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaU101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=AdityaU101&repo=Projects&theme=tokyonight&hide_border=true)](https://github.com/AdityaU101/Projects)
-&nbsp;&nbsp;
-[![Programs](https://github-readme-stats.vercel.app/api/pin/?username=AdityaU101&repo=Programs&theme=tokyonight&hide_border=true)](https://github.com/AdityaU101/Programs)
-
-</div>
-
-### Highlights
-
 | 🔬 Project | 💡 What it does | 🛠️ Stack |
 |---|---|---|
-| **ML Driven VM Instance Selection** | Picks optimal AWS EC2 instances using ML clustering — ~18% cost savings | Python · scikit-learn · AWS |
-| **Drowsiness Detection System** | Real-time eye tracking to detect driver fatigue | Python · OpenCV · dlib |
-| **PR Code Review Assistant** | AI-powered GitHub PR analysis tool | Python · GitHub API |
-| **Loan Management System** | Full-stack loan lifecycle management app | Node.js · Express · MySQL |
+| **ML Driven VM Instance Selection** | Picks optimal AWS EC2 instances via ML clustering — ~18% cost savings | Python · scikit-learn · AWS |
+| **Drowsiness Detection System** | Real-time driver fatigue detection using eye-tracking | Python · OpenCV · dlib |
+| **PR Code Review Assistant** | AI-powered GitHub pull request analysis tool | Python · GitHub API |
+| **Loan Management System** | Full-stack loan lifecycle management application | Node.js · Express · MySQL |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ---
 
@@ -106,22 +113,9 @@ fun_fact   : I debug with coffee and commit with hope ☕
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaU101&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaU101&theme=tokyo-night&hide_border=true&area=true&area_color=1f6feb&color=58a6ff&line=a371f7&point=56d364&bg_color=0d1117" width="100%"/>
 
 </div>
-
----
-
-## 🎯 2025–27 Roadmap
-
-```
- AWS Solutions Architect Associate  ████████░░  In Progress
- Certified Kubernetes Admin (CKA)   ████░░░░░░  Up Next
- AWS DevOps Professional            ██░░░░░░░░  Q4 2025
- LeetCode (100–120 problems)        ████░░░░░░  ~10 / 120
- 3 Cloud-Native Portfolio Projects  ████░░░░░░  1 / 3
- Land a SWE / Cloud Role            ██░░░░░░░░  May 2027 🎯
-```
 
 ---
 
@@ -132,29 +126,11 @@ fun_fact   : I debug with coffee and commit with hope ☕
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaU101/AdityaU101/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaU101/AdityaU101/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AdityaU101/AdityaU101/output/github-snake-dark.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AdityaU101/AdityaU101/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-upadhyay2423/)
-[![GitHub](https://img.shields.io/badge/GitHub-AdityaU101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaU101)
-[![Email](https://img.shields.io/badge/Email-aupadh47@asu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aupadh47@asu.edu)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AdityaU101&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20Build%20Something%20Great&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
