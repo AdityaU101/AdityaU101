@@ -8,15 +8,9 @@
 
 <br/>
 
-<table border="0" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/aditya-upadhyay2423/" target="_blank"><img src="./linkedin-badge.svg" height="58" alt="LinkedIn – Connect"/></a></td>
-    <td><a href="https://github.com/AdityaU101" target="_blank"><img src="./github-badge.svg" height="58" alt="GitHub – Follow"/></a></td>
-    <td><a href="mailto:adityau24092003@gmail.com"><img src="./email-badge.svg" height="58" alt="Gmail – Email Me"/></a></td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/aditya-upadhyay2423/"><img src="./linkedin-badge.svg" height="60" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/AdityaU101"><img src="./github-badge.svg" height="60" alt="GitHub"/></a>&nbsp;<a href="mailto:adityau24092003@gmail.com"><img src="./email-badge.svg" height="60" alt="Gmail"/></a>
 
-<br/>
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AdityaU101&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/AdityaU101)
 
