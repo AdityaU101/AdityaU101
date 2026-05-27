@@ -85,8 +85,6 @@ Fun_fact   : I debug with coffee and commit with hope ☕
 
 <!-- ───────────────────────────── FEATURED PROJECTS ───────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=22&fontColor=58A6FF&animation=fadeIn&fontAlignY=68" width="100%"/>
-
 <div align="center">
 
 | &nbsp; | Project | What it does | Stack |
