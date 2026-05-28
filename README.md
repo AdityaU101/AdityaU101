@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/aditya-upadhyay2423/"><img src="./linkedin-badge.svg" height="60" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/AdityaU101"><img src="./github-badge.svg" height="60" alt="GitHub"/></a>&nbsp;<a href="mailto:adityau24092003@gmail.com"><img src="./email-badge.svg" height="60" alt="Gmail"/></a>
 
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AdityaU101&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/AdityaU101)
-
 </div>
 
 <!-- ───────────────────────────── ABOUT ME ───────────────────────────── -->
@@ -22,13 +19,11 @@
 
 ```yaml
 Name       : Aditya Upadhyay
-Location   : Tempe, Arizona 🌵
+Location   : Tempe, Arizona
 Education  : M.S. Computer Science @ Arizona State University (May 2027)
              B.S. CS @ CMR Institute of Technology, Bengaluru (May 2025)
 Focus      : Cloud Engineering · Machine Learning · Full-Stack Development
 Currently  : Course Grader CSE 460: Software Analysis and Design @ ASU
-Goal       : Land a Cloud / SWE role (non-negotiable 💪)
-Fun_fact   : I debug with coffee and commit with hope ☕
 ```
 
 <!-- ───────────────────────────── TECH STACK ───────────────────────────── -->
