@@ -1,6 +1,6 @@
-![header](./header.svg)
-
 <div align="center">
+
+# Aditya Umesh Upadhyay
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=50&lines=M.S.+Computer+Science+%40+ASU+%2727+%F0%9F%8E%93;Cloud+%26+ML+Engineer+in+the+making+%E2%98%81%EF%B8%8F;AWS+%7C+Python+%7C+React+%7C+Java+%7C+Docker;Building+things+that+scale+%F0%9F%9A%80;Open+to+SWE+%26+Cloud+roles+%F0%9F%91%80" alt="Typing SVG" />
@@ -10,13 +10,11 @@
 
 <a href="https://www.linkedin.com/in/aditya-upadhyay2423/"><img src="./linkedin-badge.svg" height="60" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/AdityaU101"><img src="./github-badge.svg" height="60" alt="GitHub"/></a>&nbsp;<a href="mailto:adityau24092003@gmail.com"><img src="./email-badge.svg" height="60" alt="Gmail"/></a>
 
-<br/><br/>
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AdityaU101&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/AdityaU101)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&reversal=true&animation=twinkling" width="100%"/>
 
 <!-- ───────────────────────────── ABOUT ME ───────────────────────────── -->
 
@@ -61,20 +59,9 @@ Fun_fact   : I debug with coffee and commit with hope ☕
 
 <!-- ───────────────────────────── GITHUB STATS ───────────────────────────── -->
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaU101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480" width="100%"/>
-    
 </div>
-
-<!-- ───────────────────────────── CONTRIBUTION ACTIVITY ───────────────────────────── -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaU101&theme=tokyo-night&hide_border=true&area=true&area_color=1f6feb&color=58a6ff&line=a371f7&point=56d364&bg_color=0d1117" width="100%"/>
-
-</div>
-
 
 <!-- ───────────────────────────── FEATURED PROJECTS ───────────────────────────── -->
 
