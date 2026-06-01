@@ -15,7 +15,7 @@
   <a href="mailto:adityau24092003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AdityaU101&color=blue&style=flat-square" alt="Profile Views"/>
+
 </p>
 
 ---
@@ -40,22 +40,14 @@ Graduate student in Computer Science at Arizona State University (May 2027), wit
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaU101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-</p>
-
----
-
 ## Projects
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| **ML Driven VM Instance Selection** | Selects optimal AWS EC2 instances using ML clustering — ~18% cost reduction | Python · scikit-learn · AWS |
-| **Drowsiness Detection System** | Real-time driver fatigue detection via eye-tracking | Python · OpenCV · dlib |
-| **PR Code Review Assistant** | AI-powered GitHub pull request analysis tool | Python · GitHub API |
-| **Loan Management System** | Full-stack loan lifecycle management application | Node.js · Express · MySQL |
+| &nbsp; | Project | What it does | Stack |
+|:---:|:---|:---|:---:|
+| 🤖 | **ML Driven VM Instance Selection** | Picks optimal AWS EC2 instances via ML clustering — ~18% cost savings | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| 👁️ | **Drowsiness Detection System** | Real-time driver fatigue detection using eye-tracking | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🔍 | **PR Code Review Assistant** | AI-powered GitHub pull request analysis tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white) |
+| 💳 | **Loan Management System** | Full-stack loan lifecycle management application | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
