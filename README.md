@@ -15,6 +15,9 @@
   <a href="mailto:adityau24092003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
+  <a href="https://adityauu24.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
 
 </p>
 
